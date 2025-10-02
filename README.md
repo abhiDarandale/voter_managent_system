@@ -30,10 +30,10 @@ It provides a secure platform where **admins can manage voters and candidates** 
 ---
 
 ## 📸 Screenshots (Optional)
+<img width="1920" height="1140" alt="Screenshot 2025-10-02 161113" src="https://github.com/user-attachments/assets/ef1626b5-5f03-4f34-813c-4139363697de" />
 <img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/d08b42cf-eb71-44bb-99a1-302fab1d3668" />
 <img width="1915" height="1024" alt="image" src="https://github.com/user-attachments/assets/1c31982f-841d-40cd-af71-0a2f676bc28c" />
 <img width="1919" height="1020" alt="Screenshot 2025-10-02 161154" src="https://github.com/user-attachments/assets/96b8493e-1215-4666-a83f-c8f39025170b" />
-<img width="1919" height="1026" alt="Screenshot 2025-10-02 161641" src="https://github.com/user-attachments/assets/663b46d3-1e10-4c88-9c82-d57b85caf011" />
 <img width="1915" height="1024" alt="Screenshot 2025-10-02 161622" src="https://github.com/user-attachments/assets/2b9d76db-b090-462a-b8b8-88138b357978" />
 
 
